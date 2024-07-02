@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing: border-box}
+.body{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";font-size: 16px;color: #666666
+}
+.banner{
+    width: 100%;min-height: 200px
+}
+.img-100{
+    width: 100%;height: auto
+}
+.container{
+    width:80%;margin:0 auto
+}
+header{
+    width: 100%;height:60px;background-color: #E8934A
+}
+.logo{
+    float:left
+        }
+.menu{
+    padding-top: 20px;float:right;width: 50%;
+}
+.menu a{
+    padding:10px 20px;text-decoration: none;font-size: 15px;font-weight:600;color: white;
+}
+.menu a:hover{
+    color:#A5ED11
+}
+main{
+    width: 100%;min-height: 400px;clear:both
+}
+.w-25{
+    width: 25%;padding: 15px;float:left
+}
+.vien{
+    border: 1px solid #273A95;padding: 10px; border-radius: 15px; text-align: center;margin: 20px 0
+}
+.bogoc{
+    border-radius:15px
+}
+.tour{
+    font-size: 15px;color: blue;font-weight: bold;text-align: center
+}
+.gia{
+    color:red;font-size: 15px;font-weight: bold;text-align: center
+}
+footer{
+    width: 100%; background: #E8934A;line-height: 15px;float: left;text-align: center;color: white;margin: 20px
+}
+.form-control{
+    padding:8px;margin-bottom: 20px;width:100%
+}
+.btn{
+    padding:10px 20px;border-radius: 20px;background-color:#443386;color: white
+        ;cursor: pointer
+}
+.btn:hover{
+    background-color: #AA6061
+}
+.btn-nhap{
+    padding:10px 20px;border-radius: 20px;background-color:#8B6D0C
+        color:white;cursor: pointer
+    
+}
+.btn-nhap:hover{
+    background-color:#2FEF79
+}
+
+.tieude{
+    width: 15%; color: #745CDD;font-size: 25px;font-weight: bold;margin: 30px 70px ;text-decoration:underline
+}
+
+.w-40{
+    width: 40%;padding: 15px;float: left}
+main1{
+    width: 100%;min-height: 400px;clear:both;height: 25%}
+main2{
+    width: 100%;min-height: 400px;clear:both;height: 25%}
+
+.w-60{
+    width: 60%;padding: 15px;float:right}
+.text-xanh{
+	color: blue
+}
+.vien-xam{	
+	width: 100%;min-height: 200px;border: 1px solid grey;border-radius: 10px;padding:10px;margin-bottom: 20px
+}
+.text-den{
+	color: #1D1617;font-weight: bold
+}
+
+
+
+        
+        
